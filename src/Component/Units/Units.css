@@ -1,0 +1,30 @@
+
+
+.Prevent-title {
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(6, 1, 31);
+  }
+  .cart {
+    transition: 0.5s;
+    border-radius: 5px;
+    grid-row-start: 21px;
+  }
+  .cart:hover {
+    box-shadow: 2px 5px 10px gray;
+  }
+
+  .service img{
+    width: 200px;
+    height: 200px;
+    
+    padding-top: 2px;
+    
+  }
+
+
+  .tt{
+    width: 20px;
+    height: 20px;
+  }
+  

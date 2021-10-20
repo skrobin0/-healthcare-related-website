@@ -1,0 +1,88 @@
+[
+    {
+      "name": "Dr Abdul Kalam",
+      "sit": 35,
+      "img": "https://i.ibb.co/B3FLkck/images-5.jpg"
+    },
+
+    {
+      "name": "Dr Hamid Babul",
+     
+      "sit": 58,
+      
+      "img": "https://i.ibb.co/vx40LYm/images-6.jpg"
+    },
+
+    {
+      "name": "Dr Mahbub Khan ",
+     
+      "sit": 28,
+      
+      
+      "img": "https://i.ibb.co/CtHT88B/images-7.jpg"
+    },
+
+    {
+        "name": "Dr Sumon Chy",
+       
+        "sit": 25,
+      
+        
+        "img": "https://i.ibb.co/Dk10gZ3/images-8.jpg"
+      },
+
+    {
+      "name": "Dr Tamim Chy",
+    
+      "sit": 38,
+    
+      
+      "img": "https://i.ibb.co/7gqj6Wk/images.jpg"
+    },
+
+    {
+      "name": "Dr Babul Khan",
+     
+      "sit": 32,
+      
+      "purchase": 300,
+     
+      
+      "img": "https://i.ibb.co/6XQC1RC/images-1.jpg"
+    },
+
+    {
+      "name": "Dr Naim Karim",
+     
+      "sit": 30,
+      
+    
+      "img": "https://i.ibb.co/TTyc70n/images-2.jpg"
+    },
+
+    {
+      "name": "Dr Farhan ",
+     
+      "sit": 60,
+      
+      "img": "https://i.ibb.co/SXpFBSV/images-3.jpg"
+    },
+
+    {
+      "name": "Dr Amit Kumar ",
+      
+      "sit": 34,
+    
+      "img": "https://i.ibb.co/h1q6LdG/images-4.jpg"
+    }
+
+]
+
+
+
+
+
+
+
+
+

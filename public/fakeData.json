@@ -1,0 +1,71 @@
+[
+    {
+      "name": "Cardiology",
+      "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology. ",
+      "sit": 35,
+      "Branch": "Branch of medicine",
+      "id": 1000,
+      "img": "https://i.ibb.co/2hbR2Zn/Coronavirus-medical-check-up-Doctor-in-protective-mask-using-stethoscope-listening-to-senior-patient.jpg"
+    },
+
+    {
+      "name": "Neurology",
+      "description": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue, such as muscle.",
+      "sit": 28,
+      "Branch": "Branch of medicine",
+      "id": 1001,
+      "img": "https://i.ibb.co/Mp2fGLc/Shot-of-a-doctor-using-a-digital-tablet-to-discuss-a-brain-scan-during-a-consultation-in-her-office.jpg"
+    },
+
+    {
+      "name": "Dentistry",
+      "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral ",
+      "sit": 28,
+      "Branch": "Branch of medicine",
+      "id": 1002,
+      "img": "https://i.ibb.co/ZzKh44Q/den.jpg"
+    },
+
+    {
+        "name": "Pulmonology",
+        "description": "Pulmonology or pneumology is a medical specialty that deals with diseases involving the respiratory tract. It is also known as respirology, respiratory medicine, or chest medicine in some countries and areas. Pulmonology is considered a branch of internal medicine, and is related to intensive care medicine." ,
+        "sit": 25,
+        "Branch": "Branch of medicine",
+        "id": 1003,
+        "img": "https://i.ibb.co/hDBtPL2/pulmonologist-respiratory-system.jpg"
+      },
+
+    {
+      "name": "Intensive care unit",
+      "description": "An intensive care unit, also known as an intensive therapy unit or intensive treatment unit or critical care unit, is a special department of a hospital or health care facility that provides intensive care medicine.",
+      "sit": 38,
+      "Branch": "Branch of medicine",
+      "id": 1004,
+      "img": "https://i.ibb.co/KmpZyN7/sleeping-patient-icu-wicu.jpg"
+    },
+
+    {
+      "name": "Neonatal intensive care",
+      "description": "A neonatal intensive care unit, also known as an intensive care nursery, is an intensive care unit specializing in the care of ill or premature newborn infants. Neonatal refers to the first 28 days of life. Neonatal care, as known as specialized nurseries or intensive care, has been around since the 1960s.",
+      "sit": 32,
+      "Branch": "Branch of medicine",
+      "id": 1005,
+      "img": "https://i.ibb.co/pht18xY/Soft-blur-of-the-doctor-hands-use-stethoscope-to-check-newborn-baby-health-and-take-care-him-or-cure.jpg"
+    }
+
+    
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

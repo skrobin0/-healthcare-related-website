@@ -1,0 +1,47 @@
+
+
+
+.extra {
+    background: url("https://i.ibb.co/vXMqFZ6/diana-polekhina-e25v-Pue-MBY4-unsplash.jpg");
+    height: 600px;
+   
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+}
+
+.extra-container{
+    background-color: white;
+}
+
+.text-part{
+    padding: 100px;
+}
+
+.text-part h4, h2{
+    font-family: 'Caveat';
+    font-size: 3em;
+}
+
+@media screen and (max-width: 767px) {
+ .extra{
+     background: white;
+     text-align: center;
+     height: 250px;
+ }
+
+ .motto{
+     text-align: left;
+     margin: auto;
+     font-size: 14px !important;
+ }
+ .text-part{
+     margin: auto !important;
+     padding: 2px;
+ }
+ .text-part h4, h2{
+    font-size: 1.5em;
+}
+}
