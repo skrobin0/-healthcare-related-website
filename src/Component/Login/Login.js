@@ -6,17 +6,17 @@ import "./Login.css"
 
 const Login = () => {
 
-    const {users, singInWithGoogle, handleRegistration,  handleEmailChange, handlePasswordChange, error,toggleLogin, isLogin, handleNameChange} = useAuth();
+    const { singInWithGoogle, handleRegistration,  handleEmailChange, handlePasswordChange, error,toggleLogin, isLogin, handleNameChange} = useAuth();
 
 	const location = useLocation();
 	const history = useHistory();
-	const redirect_uri = location.state?.form || "/home";
+	const redirect_url = location.state?.form || "/home" ;
 
 	const handleGoogleLogin = () => {
 		singInWithGoogle()
-		.then(result =>{
-            history.push(redirect_uri);
-        });
+		.then (result => {
+			history.push(redirect_url)
+		})
 	}
 
     return (
@@ -76,7 +76,7 @@ const Login = () => {
 	
 				  <button onClick = {handleRegistration} className="btn btn-lg btn-primary btn-block" type="submit">{isLogin ? "Login" : "Register"}</button>
 	
-				 
+				  {/* <input  className="btn btn-lg btn-primary btn-block" type="submit" value ="submit"></input> */}
 				</form>
 			</div>
 		</div>

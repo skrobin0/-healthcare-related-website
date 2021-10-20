@@ -18,8 +18,8 @@ const useFirebase = () =>{
 
     const singInWithGoogle = () => {
         const googleProvider = new GoogleAuthProvider();
-       return signInWithPopup(auth, googleProvider)
-        
+        return signInWithPopup(auth, googleProvider)
+       
     }
 
     useEffect(() =>{
